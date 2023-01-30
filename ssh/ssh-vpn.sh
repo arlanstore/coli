@@ -30,16 +30,16 @@ echo "Checking VPS"
 clear
 # ==================================================
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/ARLANSTORE/coli/vip/ssh"
+akbarvpn="raw.githubusercontent.com/arlanstore/coli/vip/ssh"
 
 # Link Hosting Kalian Untuk Xray
-akbarvpnn="raw.githubusercontent.com/ARLANSTORE/coli/vip/xray"
+akbarvpnn="raw.githubusercontent.com/arlanstore/coli/vip/xray"
 
 # Link Hosting Kalian Untuk Trojan Go
-akbarvpnnn="raw.githubusercontent.com/ARLANSTORE/coli/vip/trojango"
+akbarvpnnn="raw.githubusercontent.com/arlanstore/coli/vip/trojango"
 
 # Link Hosting Kalian Untuk Stunnel5
-akbarvpnnnn="raw.githubusercontent.com/ARLANSTORE/coli/vip/stunnel5"
+akbarvpnnnn="raw.githubusercontent.com/arlanstore/coli/vip/stunnel5"
 
 # initializing var
 export DEBIAN_FRONTEND=noninteractive
